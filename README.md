@@ -1,15 +1,22 @@
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
+### Hi, I'm Douglas Medici! 👋
+```markdown
 
-### Hi 👋
-I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
-- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
+I'm a seasoned IT professional with 15 years of experience, holding a degree in Computer Networks and a postgraduate degree in Process, People, and Service Management. Currently, I work as a DevOps Engineer at ESX - Client Globo, focusing on administering complex environments and IT infrastructure projects. My self-taught capability and determination to learn new technologies enable me to continuously improve and automate the IT environment.
+
+
+#### Skills and Tools:
+- **Cloud Architecture**: Experience with AWS, GCP, and Azure, applying Well-Architected frameworks.
+- **Automation and Orchestration**: Proficiency in Ansible, Terraform, CloudFormation, and Azure Resource Manager (ARM); container orchestration with Docker and Kubernetes.
+- **CI/CD Pipelines**: Implementation with Jenkins, GitLab CI, and Azure DevOps.
+- **Observability and Monitoring**: Implementation of SRE solutions with Prometheus, Grafana, ELK Stack, and Azure Monitor.
+- **Governance and Compliance**: Implementation of IAM and encryption, knowledge in TOGAF.
+- **Agile Methodologies**: Utilization of agile methodologies for fast and efficient deliveries.
+- **FinOps**: Effective practices for continuous cost optimization.
+- **DevSecOps**: Security integration from development to production.
+
+With a focus on continuous improvement and automation, I am always seeking opportunities to optimize and innovate in the IT environment.
+```
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=dsmedici)
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/USERNAME) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/USERNAME)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/douglasmedici/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/USERNAME/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/USERNAME)
-<!---
-dsmedici/dsmedici is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@douglas.medici/)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/douglasmedici/)
