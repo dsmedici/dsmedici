@@ -16,6 +16,6 @@ I'm a seasoned IT professional with 15 years of experience, holding a degree in 
 
 With a focus on continuous improvement and automation, I am always seeking opportunities to optimize and innovate in the IT environment.
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=dsmedici)
+![YOUR github stats](https://github-readme-stats-eight-theta.vercel.app/api?username=dsmedici&show_icons=true&theme=radical)
 
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@douglas.medici/)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/douglasmedici/)
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@douglas.medici/)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/douglasmedici/)
